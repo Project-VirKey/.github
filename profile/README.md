@@ -4,7 +4,7 @@
 </p>
 </a>
 
-<h1 align=center>VirKey</h1>
+# VirKey
 The main objective of the VirKey-Project is to make a musician’s and producer’s life a little bit easier by being able to work at more locations than just from the studio. With our product it will be possible to place the device on a non-reflecting, even surface and start working.
 
 https://virkey.at
